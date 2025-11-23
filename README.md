@@ -1,4 +1,9 @@
 ## Hi there 👋
+I’m Ashfakh M, a Computer Science Student @Farook College
+
+I Like To Explore tech And Code My Creative Ideas.
+
+
 
 <!--
 **ashfakhm/ashfakhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
